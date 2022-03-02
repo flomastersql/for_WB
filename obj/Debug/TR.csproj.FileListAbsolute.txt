@@ -1,0 +1,9 @@
+C:\1Work\2022.02.25 тестовое TR\TR\TR\bin\Debug\TR.exe
+C:\1Work\2022.02.25 тестовое TR\TR\TR\bin\Debug\TR.pdb
+C:\1Work\2022.02.25 тестовое TR\TR\TR\obj\Debug\TR.csprojAssemblyReference.cache
+C:\1Work\2022.02.25 тестовое TR\TR\TR\obj\Debug\TR.TRtest.resources
+C:\1Work\2022.02.25 тестовое TR\TR\TR\obj\Debug\TR.Properties.Resources.resources
+C:\1Work\2022.02.25 тестовое TR\TR\TR\obj\Debug\TR.csproj.GenerateResource.cache
+C:\1Work\2022.02.25 тестовое TR\TR\TR\obj\Debug\TR.csproj.CoreCompileInputs.cache
+C:\1Work\2022.02.25 тестовое TR\TR\TR\obj\Debug\TR.exe
+C:\1Work\2022.02.25 тестовое TR\TR\TR\obj\Debug\TR.pdb
